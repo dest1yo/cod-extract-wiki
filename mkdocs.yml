@@ -2,29 +2,28 @@
 
 site_name: CoD Extract Wiki
 site_url: https://dest1yo.github.io/cod-extract-wiki/
+
 theme:
   name: material
+
+  logo: assets/logo.jpg
+  favicon: assets/logo.jpg
+
   font:
-    text: Merriweather Sans
-    code: Red Hat Mono
+    text: Noto Sans SC
+    code: Roboto Mono
+
   features:
     - navigation.footer
+
   palette:
     # Dark Mode
-    - scheme: slate
-      toggle:
-        icon: material/weather-sunny
-        name: Dark mode
-      primary: indigo
-      accent: blue
-
-    # Light Mode
     - scheme: default
       toggle:
         icon: material/weather-night
-        name: Light mode
-      primary: blue
-      accent: deep orange
+        name: Dark mode (The only available mode for now)
+      primary: black
+      accent: blue
 
 markdown_extensions:
   - attr_list
@@ -46,11 +45,24 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
 
 extra:
   social:
     - icon: simple/github
+      name: Github
       link: https://github.com/dest1yo
+    - icon: simple/bilibili
+      name: Bilibili
+      link: https://space.bilibili.com/24962305
+    - icon: simple/discord
+      name: Discord
+      link: https://discord.gg/eY2Y5p2PEp
+    - icon: simple/kofi
+      name: Ko-fi
+      link: https://ko-fi.com/dest1yo
 
 copyright: Copyright &copy; 2025 dest1yo
 
@@ -61,3 +73,5 @@ nav:
   #     - Contact: about/contact.md
   - Quickstart:
      - CoD HQ Games: quickstart/cod_hq_games.md
+  - Tutorials:
+     - Material Layers Mapping: tutorials/material_layers_mapping/material_layers_mapping.md
