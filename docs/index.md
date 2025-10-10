@@ -1,7 +1,7 @@
 # Home
 
-![GitHub Repo stars](https://img.shields.io/github/stars/dest1yo/cod-extract-wiki?style=social&label=CoD%20Extract%20Wiki)
-![Discord](https://img.shields.io/discord/1191534071055130645?style=social&logo=discord&label=dest1yo's%20Server)
+[![GitHub Repo stars](https://img.shields.io/github/stars/dest1yo/cod-extract-wiki?style=social&label=CoD%20Extract%20Wiki)](https://github.com/dest1yo/cod-extract-wiki)
+[![Discord](https://img.shields.io/discord/1191534071055130645?style=social&logo=discord&label=dest1yo's%20Server)](https://discord.gg/eY2Y5p2PEp)
 
 Welcome to the **CoD Extract Wiki**.
 
