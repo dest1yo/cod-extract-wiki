@@ -3,8 +3,6 @@
     "https://squidfunk.github.io/mkdocs-material/schema.json": "mkdocs.yml"
   },
   "yaml.customTags": [ 
-
-
     "!ENV scalar",
     "!ENV sequence",
     "!relative scalar",

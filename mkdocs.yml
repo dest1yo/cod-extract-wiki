@@ -18,12 +18,9 @@ theme:
 
   palette:
     # Dark Mode
-    - scheme: default
-      toggle:
-        icon: material/weather-night
-        name: Dark mode (The only available mode for now)
-      primary: black
-      accent: blue
+    scheme: slate
+    primary: black
+    accent: blue
 
 markdown_extensions:
   - attr_list
@@ -48,6 +45,9 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.mark
   - pymdownx.tilde
+
+extra_css:
+  - assets/stylesheets/extra.css
 
 extra:
   social:
