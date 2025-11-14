@@ -50,9 +50,10 @@
     ==**Turn Off the Internet**== on your computer, ensure that both your ==**Game and the Platform are Not Running**== while performing the dump, or you will be banned.
 
 - Enter the command to dump the game you want. ==(Change it to your actual game path.)==
-    - BO6: `dump "path\to\cod.exe"`
+    - BO6: `dump "path\to\cod24\cod24-cod.exe"`
     - BO6 Campaign: `dump "path\to\sp24\sp24-cod.exe"`
     - BO7 Beta: `dump "path\to\cod25\cod25-cod.exe"`
+    - BO7: `dump "path\to\cod.exe"`
 
 !!! tip ""
     - ^^After the dump has completed successfully, you no longer need to remain offline.^^
@@ -63,14 +64,16 @@
     - BO6: `RunBO6.bat`
     - BO6 Campaign: `RunBO6SP.bat`
     - BO7 Beta: `RunBO7Beta.bat`
+    - BO7: `RunBO7.bat`
 - Modify the game directory path in bat to ^^==CoD HQ Main Directory==^^ of yours. Examples:
     - Steam: `"path/to/Call of Duty HQ"`
-    - Battle.Net: `"path/to/Call of Duty"`
-    - XBOX Game Pass: `"path/to/Call of Duty`==/Content==`"`
+    - Battle.Net: `"path/to/Call of Duty`==/\_retail_==`"`
+    - Xbox Game Pass: `"path/to/Call of Duty`==/Content==`"`
 
 !!! warning ""
-    - ^^Do not include `_retail_`, `cod24`, `sp24`, `cod25`, etc. sub game folders in the path.^^
-    - ^^Ensure that the path is surrounded by exactly ==one== pair of double quotes, rather than none or two pairs.^^
+    - ^^Do not include `cod24`, `sp24`, `cod25`, etc. sub game folders in the path.^^
+    - ^^The path can not end with a backslash (\\).^^
+    - ^^Ensure that the path is surrounded by exactly ==one== pair of double quotes (""), rather than none or two pairs.^^
 
 - Now can just run the bat to start Cordycep.
 
@@ -85,7 +88,7 @@
     - If you don't know them well and have enough RAM, you can just type `loadall` to load all the game files.
     - Estimated RAM Usage (GB)
         - BO6: Over 20
-        - BO7: Over 4
+        - BO7 Beta: Over 4
 
 ## Notes
 - Every big update like a `season update` can mess up the tools support which takes time to re-adapt. If you are worried about this, you can choose:
