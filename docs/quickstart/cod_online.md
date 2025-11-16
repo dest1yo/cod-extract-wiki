@@ -10,7 +10,7 @@
 
 - Download [Cordycep-rs](https://github.com/dest1yo/Cordycep-rs-releases/releases), which is used to load the game assets.
 
-- [Saluki](https://github.com/echo000/saluki-releases/releases), which is used to extract the assets from Cordycep.
+- Download [Saluki](https://github.com/echo000/saluki-releases/releases), which is used to extract the assets from Cordycep.
 
 ## Getting ready to rip assets
 
