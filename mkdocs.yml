@@ -73,5 +73,6 @@ nav:
   #     - Contact: about/contact.md
   - Quickstart:
      - CoD HQ Games: quickstart/cod_hq_games.md
+     - CoD Online: quickstart/cod_online.md
   - Tutorials:
      - Material Layers Mapping: tutorials/material_layers_mapping/material_layers_mapping.md
