@@ -1,0 +1,23 @@
+/* Dark mode */
+[data-md-color-scheme="slate"] {
+  /* Default color shades */
+  /* --md-default-bg-color: #18191B; */
+  --md-default-bg-color:           hsla(225, 7%, 10%, 1);
+  --md-default-bg-color--light:    hsla(225, 7%, 10%, 0.7);
+  --md-default-bg-color--lighter:  hsla(225, 7%, 10%, 0.3);
+  --md-default-bg-color--lightest: hsla(225, 7%, 10%, 0.12);
+
+  /* Code color shades */
+  --md-code-bg-color: #1E2021;
+
+  /* Footer color shades */
+  --md-footer-bg-color: #18191B;
+  --md-footer-meta-bg-color: #18191B;
+  /* --md-footer-bg-color--dark: hsla(0, 0%, 0%, 0.32); */
+  --md-footer-bg-color--dark: #212426;
+
+  /* Typeset `mark` color shades */
+  /* --md-typeset-mark-color: hsla(#{hex2hsl($clr-blue-a200)}, 0.3); */
+  /* --md-typeset-mark-color: hsla(#{hex2hsl($clr-yellow-a200)}, 0.5); */
+  --md-typeset-mark-color: hsla(30, 100%, 50%, 0.5);
+}
