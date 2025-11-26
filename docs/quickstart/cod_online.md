@@ -12,6 +12,8 @@
 
 - Download [Saluki](https://github.com/echo000/saluki-releases/releases), which is used to extract the assets from Cordycep.
 
+- [COD:Online Fastfile Names txt](../assets/codol_ff_names.txt), List of all fastfile names.
+
 ## Getting ready to rip assets
 
 - Once you downloaded everything above, extract all of them.
