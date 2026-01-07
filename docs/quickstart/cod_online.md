@@ -16,19 +16,17 @@
 
 ## Getting ready to rip assets
 
-- Once you downloaded everything above, extract all of them.
+- Once you've downloaded everything above, extract all of them.
 
-- Head to your Cordycep-rs folder and create this directory `Data/Dumps`
-    - (e.g `Cordycep-rs/Data/Dumps`).
-
-- Download the game dump file from [Discord](discord://discord.com/channels/1191534071055130645/1302004278935945218/1425520730833158154) and put it in the `Dumps` folder.
+- Download the game dump file [Data.zip](../assets/Data.zip) and extract the zip in your Cordycep-rs folder.
+    - Your directory should look like this `cordycep-rs/Data/Dumps/codoMP_client_shipRetail_dump.exe`.
 
 - Now go back to the root of your Cordycep-rs folder and create a new text document and rename it to `RunOL.bat`.
 
 - Edit the bat by right clicking it and clicking edit, once open paste the following commands into it.
 
 !!! note ""
-    `Cordycep-rs sethandler ol setpath "F:\CODOL_v3.19.26.22" init loadcommonfiles`
+    `Cordycep-rs sethandler ol setpath "F:/CODOL_v3.19.26.22" init loadcommonfiles`
 
 - Edit the directory with your games path.
 
