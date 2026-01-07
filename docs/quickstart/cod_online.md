@@ -5,7 +5,7 @@
 !!! warning ""
     Tools only support the latest version/build of COD Online.
 
-- Download the latest version/build of [COD Online](https://www.rootz.so/d/22M2S).
+- Download the latest version/build of [COD Online](https://1drv.ms/f/c/080206807860f8f2/IgCyMoNY0fnnR5yOH1VE2SmPARANsmadGjv22hI6GD8BIoY?e=7BZVkf).
     - (Thanks to `TheZombieDon` and `Kore` for putting this together!).
 
 - Download [Cordycep-rs](https://github.com/dest1yo/Cordycep-rs-releases/releases), which is used to load the game assets.
