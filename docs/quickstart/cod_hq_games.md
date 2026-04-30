@@ -11,38 +11,9 @@
 
     Please be aware that while we strive to minimize risk, there is always a possibility of unforeseen issues. Follow all instructions carefully, and proceed at your own discretion.
 
-## How To Get Tools
-^^Tools for the latest CoD HQ titles are currently available only to supporters.^^
-
-??? note "Notes on Donations (Click to expand)"
-    **Sincere thanks to everyone for your support! Hope you can enjoy the tools.** :blue_heart:
-
-    ^^The donation amount is set low because I don't make a living from donations—all support simply motivates me to keep developing these tools.^^ To be honest, I spend far more time developing these tools than I receive in compensation, but I have never felt that this is unfair and actively complained about it.
-
-    Donations will let me know people find my work useful and are willing to support me, which helps me stay positive and keep going—nothing more.  
-    (I think we need at least some sponsorship to at least cover the cost of buying the game lmao.)
-
-    ^^If you feel this is too much or are unable to pay, you can wait for the free public version to be released later.^^  
-    I prefer not to get into arguments or over-explain about this, since I believe nice people can be able to understand how developers feel. :smile:
-
-    To those who tend to be self-centered and try to hurt others, I don't mean to blame you, but I have to point out that it's important to consider other people's feelings, not just your own, since no one is forcing you to use these tools.
-
-- You can support me on following ways with a single donation, which grants you the Supporter role for life on my server.
-    - [Ko-fi](https://ko-fi.com/dest1yo) ($5)
-    - [爱发电 Afdian](https://afdian.com/a/dest1yo) (￥35)
-
-- After you donating in `Ko-fi`, there should be a button on the page called `"Claim Discord Role"`, click it to link your Discord account and have the role automatically assigned by the bot.
-
-- If the button isn't available or you donated in `爱发电 Afdian` (which doesn't have a bot to add role), you can provide your order information to [Support Role Request Channel](discord://discord.com/channels/1191534071055130645/1303034681691738154), and wait for an admin to manually add your role. You can also `@dest1yo`(me) to make sure your message isn't missed.
-
-- Once you have the Supporter role, you'll be able to access the supporter channels and get the latest tools.
-
 ## Tools Requirements
 - Download [Saluki](https://github.com/echo000/saluki-releases/releases), which is used to extract the assets from `Cordycep`.
-- Download `Cordycep` from: [Discord Channel](discord://discord.com/channels/1191534071055130645/1302004278935945218), which is used to load the game assets.
-- Get a `License.ccl` for `Cordycep` from: [Discord Message](discord://discord.com/channels/1191534071055130645/1307976595583012865/1312029819005046826).
-- Put the `License.ccl` together with `Cordycep.CLI.exe`.
-- Make sure you are running the ==Discord APP client== (Not the web version).
+- Download `Cordycep` from: [Discord Channel](discord://discord.com/channels/1191534071055130645/1194338541371670609), which is used to load the game assets.
 - Run `Cordycep` and wait for verification to complete. (After this you don't have to keep the Discord running.)
 
 ## Dumping Games
@@ -96,7 +67,7 @@
     - Follow the news in the channels or make a backup for game.
 
 - If you run into any problems, you can:
-    - Ask questions in [Supporter Channel](discord://discord.com/channels/1191534071055130645/1301475313749987339).
+    - Ask questions in chat channels.
     - Post questions, issues or requests in: [Feedback Forum](discord://discord.com/channels/1191534071055130645/1302069283010121818).
 
 !!! tip "Tip for Posting Issues"
